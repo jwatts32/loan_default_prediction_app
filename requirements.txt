@@ -1,0 +1,6 @@
+```txt
+streamlit
+pandas
+scikit-learn
+lightgbm
+joblib
